@@ -1,0 +1,16 @@
+{
+  "name": "AddWatermark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Igor Jankowski <jankowskiigor5@gmail.com\ngit congig --global -l\ngit config --global user.email jankowskiigor5@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
